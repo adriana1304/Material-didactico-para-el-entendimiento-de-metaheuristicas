@@ -10,6 +10,11 @@ Una de las técnicas más utilizadas para resolver este tipo de problemas son la
 
 En este proyecto se presentan cinco metaheurísticas: 1) Búsqueda tabú, 2) recocido simulado, 3) programación evolutiva, 4) estrategias evolutivas y 5) algoritmos genéticos. Cada una de ellas es aplicada a un problema de optimización utilizando lenguaje Python y Jupyter.
 
+Los ejemplos fueron realizados por la estudiante: 
+Angélica Nayeli Rivas Bedolla (https://github.com/an-rivas)
+
+
+
 
 Trabajo realizado con el apoyo del Programa UNAM-DGAPA-PAPIME PE102320.
 

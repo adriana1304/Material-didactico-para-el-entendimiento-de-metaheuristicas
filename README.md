@@ -1,5 +1,5 @@
 # Material didáctico para la enseñanza de metaheurísticas
-Prácticas didácticas para el estudio y comprensión de metaheurísticas utilizadas en la resolución de problemas de optimización difíciles
+**Prácticas didácticas para el estudio y comprensión de metaheurísticas utilizadas en la resolución de problemas de optimización difíciles**
 
 
 En el área de computación existen varios problemas de optimización que son difíciles de resolver. Por ejemplo, problemas NP-difíciles y problemas para los cuales no funcionan las técnicas clásicas de programación matemática.
